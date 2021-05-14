@@ -1,0 +1,35 @@
+body{background-color: green;}
+    
+
+#title.subtitle.material.Modo.Modo1
+
+.Material{
+    font-size: unset;
+    font-style: italic;
+    margin: unset;
+    margin-bottom: 15px ;
+}
+    
+    
+
+
+.post{
+    border: 15px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    margin-bottom: 15px;
+}
+
+
+.calda{
+    margin: unset;
+    margin-bottom: 15px;
+    text-decoration: black ;
+    text-decoration: underline;
+}
+.Modo{
+    margin: unset;
+    margin-bottom: 15px;
+    text-decoration: black;
+    text-decoration: underline;
+}
