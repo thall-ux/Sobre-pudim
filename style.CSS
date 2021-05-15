@@ -1,7 +1,10 @@
-body{background-color: green;}
+body{background-color: green;
+font-family: Verdana;
+max-width: 900px;
+margin: auto;}
     
 
-#title.subtitle.material.Modo.Modo1
+#title.subtitle.material.Modo.Modo1.imagem
 
 .Material{
     font-size: unset;
@@ -32,4 +35,9 @@ body{background-color: green;}
     margin-bottom: 15px;
     text-decoration: black;
     text-decoration: underline;
+}
+.imagem{
+    width: 100%;
+    padding: 11px 11px;
+    font-tran    
 }
